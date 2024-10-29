@@ -1,0 +1,4 @@
+model\Pessoa.class
+controller\PessoaController.class
+repository\PessoaRepository.class
+service\PessoaService.class
